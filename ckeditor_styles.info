@@ -1,0 +1,6 @@
+; $Id$
+name = CKEditor Styles
+description = Enables the use of custom styles with WYSIWYG-enabled CK Editor
+dependencies[] = wysiwyg
+package = "Arts and Sciences at The Ohio State University Modules"
+core = 6.x
